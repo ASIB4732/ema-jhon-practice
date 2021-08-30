@@ -21,7 +21,7 @@ else if(total>0){
 let tex=total/15
     return (
         <div>
-            <h3 className="text-success">Orser Count: {products.length}</h3>
+            <h3 className="text-success">Orser Container: {products.length}</h3>
             <p>Shiping Cost:- ${shipingCost}</p>
             <p>Tex/Vet 15% :- ${tex}</p>
             <h4>Total Mony:- ${total+shipingCost}</h4>
