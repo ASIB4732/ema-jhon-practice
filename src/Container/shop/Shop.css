@@ -1,0 +1,10 @@
+.shop{
+    display:flex;
+}
+.productClass{
+    width: 65%;
+    margin-left: 10%;
+}
+.shopClass{
+    border-left: 2px solid lightgray;
+}

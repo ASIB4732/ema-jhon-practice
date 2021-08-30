@@ -1,0 +1,20 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid lightgray;
+    margin-right: 5px;
+}
+img{
+    /* width: 210px; */
+    margin-right: 5px;
+}
+.detelce{
+
+}
+button{
+    color: white;
+    background-color: orange;
+    border-radius: 5px;
+    width: 180px;
+    height: 35px;
+    
+}
